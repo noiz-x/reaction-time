@@ -24,8 +24,8 @@ This project is designed to be run using the **Wokwi simulator** inside **Platfo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/reaction-time-game.git
-   cd reaction-time-game
+   git clone https://github.com/noiz-x/reaction-time
+   cd reaction-time
     ```
 
 2. **Open in VS Code**
