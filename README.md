@@ -109,3 +109,4 @@ firmware = .pio/build/uno/firmware.hex
 * Make sure your RGB LED uses **PWM-capable pins** (e.g., 9, 10, 11 on Arduino UNO).
 * Wokwi handles the I2C LCD setup internally, so no wiring needed manually—just use the correct address (`0x27`).
 
+Fuck you man 😂💔🔥
