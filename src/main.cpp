@@ -44,7 +44,7 @@ void setup() {
   Serial.begin(9600);
   Serial.print("Reaction Time Game - Team ");
   Serial.print(teamNames[currentTeamIndex]);
-  Serial.println(" press to start!");
+  Serial.println(" Press to start!");
 }
 
 void loop() {
@@ -85,8 +85,8 @@ void loop() {
     
     lcd.clear();
     lcd.setCursor(0, 0);
-    lcd.print("Ready...");
-    Serial.println("Ready...");
+    lcd.print("Get Ready...");
+    Serial.println("Get Ready...");
     
     unsigned long delayStart = millis();
     unsigned long randomDelay = random(1000, 5000);
